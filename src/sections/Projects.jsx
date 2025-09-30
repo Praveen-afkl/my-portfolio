@@ -8,8 +8,8 @@ import { motion } from 'framer-motion';
 // ===============================================
 const projectsData = [
   { id: 1, title: 'Pico Park Clone', description: 'A fun, cooperative multiplayer game clone.', image: '/projects/pico.png', tags: ['godot', 'visualstudiocode'], href: 'https://github.com/Praveen-afkl/PicoParkClone-main' },
-  { id: 2, title: 'Taxi Reservation System', description: 'A fully-featured social taxi reservation system design.', image: '/projects/taxi.png', tags: ['Java', 'visualstudiocode'], href: '#' },
-  { id: 3, title: 'Railway Reservation System', description: 'A command-line railway booking system.', image: '/projects/rail.png', tags: ['Java','visualstudiocode'], href: '#' },
+  { id: 2, title: 'Taxi Reservation System', description: 'A fully-featured social taxi reservation system design.', image: '/projects/taxi.png', tags: ['Java', 'visualstudiocode'], href: 'https://github.com/Praveen-afkl/Taxi-Reservation-System-main' },
+  { id: 3, title: 'Railway Reservation System', description: 'A command-line railway booking system.', image: '/projects/rail.png', tags: ['Java','visualstudiocode'], href: 'https://github.com/Praveen-afkl/Railway-Reservation-System-main' },
   { id: 4, title: 'AI-Powered Interview app', description: 'In Progress!!', image: '/projects/inter.png', tags: ['React', 'tailwindcss', 'javascript'], href: '/in-progress.html' },
 ];
 
