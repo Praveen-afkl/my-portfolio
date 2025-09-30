@@ -1,3 +1,45 @@
+# 🌟 Praveen's Portfolio
+
+Hey! 👋 I'm **Praveen**, a frontend wizard 🧙‍♂️ crafting cool websites and interactive experiences.  
+
+Check out my live portfolio here: 🚀  
+[**Live Site →**](https://praveen-afk-portfolio.netlify.app)
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React, TailwindCSS, Vite  
+- **3D & Animations:** Three.js, Parallax, Particles  
+- **Backend:** EmailJS for contact forms  
+- **Tools:** VS Code, Git, GitHub, Netlify  
+
+---
+
+## 📂 Projects
+
+Here’s a quick peek at what I’ve built:
+
+- **Blazor App:** Enterprise-style web app with sleek UI  
+- **WordPress Theme:** Custom themes for dynamic websites  
+- **Game Engine Demo:** 3D interactive experience  
+
+…and more! Check them all on the live site. 😎
+
+---
+
+## ✨ Features
+
+- Responsive & modern UI 🌈  
+- Animated sections for extra flair  
+- Email contact form powered by EmailJS ✉️  
+- Interactive 3D models and parallax effects  
+
+---
+
+> “Code, coffee, repeat.” ☕💻  
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
