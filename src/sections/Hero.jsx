@@ -201,14 +201,14 @@ const App = () => {
         className="relative min-h-screen flex flex-col justify-center items-center px-6 text-center text-white"
       >
         <div className="max-w-4xl">
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight">
+          <h1 className="text-5xl md:text-7xl lg:text-7xl font-bold leading-tight">
             Hi, I’m{" "}
             <span className="bg-gradient-to-r from-[#a855f7] via-purple-800 to-[#580499] bg-clip-text text-transparent animate-gradient">
               Praveen
             </span>
           </h1>
 
-          <p className="mt-4 text-xl md:text-2xl lg:text-3xl xl:text-4xl leading-snug text-neutral-300">
+          <p className="mt-4 text-xl md:text-2xl lg:text-3xl xl:text-3xl leading-snug text-neutral-300">
             A{" "}
             <span className="bg-gradient-to-r from-[#a855f7] via-purple-800 to-[#7701c6] bg-clip-text text-transparent animate-gradient">
               Front-End Developer
@@ -220,13 +220,13 @@ const App = () => {
           <div className="my-6">
             <span
               ref={wordRef}
-              className="pixel-font font-extrabold text-6xl md:text-8xl lg:text-9xl text-white/80 text-neon-glow-strong"
+              className="pixel-font font-extrabold text-6xl md:text-8xl lg:text-8xl text-white/80 text-neon-glow-strong"
             >
               {WORDS[0]}
             </span>
           </div>
 
-          <p className="text-lg md:text-xl lg:text-2xl text-neutral-400">
+          <p className="text-lg md:text-xl lg:text-1xl text-neutral-400">
             Web Applications that are fast, responsive, and visually engaging.
           </p>
 
@@ -237,6 +237,30 @@ const App = () => {
             >
               Get in Touch
             </a>
+              <div className="flex gap-4 justify-center lg:justify-start">
+        <a
+          href="https://github.com/Praveen-afkl"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn-frosted w-12 h-12 flex items-center justify-center rounded-full"
+        >
+          <i className="fab fa-github text-xl"></i>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/praveen-v-m-0042004122w2"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn-frosted w-12 h-12 flex items-center justify-center rounded-full"
+        >
+          <i className="fab fa-linkedin-in text-xl"></i>
+        </a>
+        <a
+          href="mailto:praveenvm004@email.com"
+          className="btn-frosted w-12 h-12 flex items-center justify-center rounded-full"
+        >
+          <i className="fas fa-envelope text-xl"></i>
+        </a>
+      </div>
           </div>
         </div>
 
